@@ -1,5 +1,3 @@
-![image](https://github.com/DhruvAjayToshniwal/Stock-Price-Prediction-Using-LSTM/assets/57616258/31c9653f-a633-45a8-8b5f-a6425ae4f3b8)# Stock Price Prediction using LSTM
-
 This repository contains code for a project that uses Long Short-Term Memory (LSTM) models to predict the future closing price of stocks given historical data. It is a comprehensive and end-to-end machine learning project covering the whole process from data collection to model evaluation and prediction.
 
 The stocks that we predict in this project include BlackRock, Goldman Sachs, JPMorgan Chase, and D. E. Shaw Group.
@@ -45,7 +43,7 @@ yfinance - Used to download historical stock data.
 scikit-learn - For data preprocessing and evaluation.
 
 ## Graphs
-1. **BR*
+1. **BR**
    ![image](https://github.com/DhruvAjayToshniwal/Stock-Price-Prediction-Using-LSTM/assets/57616258/82a22a74-cd0f-4cf6-a4df-543d06844397)
 
 2. **GS**
