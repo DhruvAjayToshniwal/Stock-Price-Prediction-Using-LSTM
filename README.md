@@ -1,4 +1,4 @@
-# Stock Price Prediction using LSTM
+![image](https://github.com/DhruvAjayToshniwal/Stock-Price-Prediction-Using-LSTM/assets/57616258/31c9653f-a633-45a8-8b5f-a6425ae4f3b8)# Stock Price Prediction using LSTM
 
 This repository contains code for a project that uses Long Short-Term Memory (LSTM) models to predict the future closing price of stocks given historical data. It is a comprehensive and end-to-end machine learning project covering the whole process from data collection to model evaluation and prediction.
 
@@ -43,6 +43,19 @@ Python 3 - The programming language used.
 Keras - For building the LSTM model.
 yfinance - Used to download historical stock data.
 scikit-learn - For data preprocessing and evaluation.
+
+## Graphs
+1. **BR*
+   ![image](https://github.com/DhruvAjayToshniwal/Stock-Price-Prediction-Using-LSTM/assets/57616258/82a22a74-cd0f-4cf6-a4df-543d06844397)
+
+2. **GS**
+   ![image](https://github.com/DhruvAjayToshniwal/Stock-Price-Prediction-Using-LSTM/assets/57616258/fe23593b-9ca4-43be-b8e1-7fc6e7a383ae)
+
+3. **JPM**
+   ![image](https://github.com/DhruvAjayToshniwal/Stock-Price-Prediction-Using-LSTM/assets/57616258/f2b99e0d-0563-49a9-8b11-75c12691663e)
+
+4. **DE**
+   ![image](https://github.com/DhruvAjayToshniwal/Stock-Price-Prediction-Using-LSTM/assets/57616258/d4558976-46b3-4bcf-991b-3b54e668c525)
 
 ```bash
 pip install -r requirements.txt
