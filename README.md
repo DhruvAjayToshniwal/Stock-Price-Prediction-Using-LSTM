@@ -38,5 +38,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 The project is implemented in Python. The required Python packages are listed in `requirements.txt`. You can install these with pip by running:
 
+## Built With
+Python 3 - The programming language used.
+Keras - For building the LSTM model.
+yfinance - Used to download historical stock data.
+scikit-learn - For data preprocessing and evaluation.
+
 ```bash
 pip install -r requirements.txt
