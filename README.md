@@ -1,3 +1,4 @@
+# Stock-Price-Prediction-Using-LSTM
 This repository contains code for a project that uses Long Short-Term Memory (LSTM) models to predict the future closing price of stocks given historical data. It is a comprehensive and end-to-end machine learning project covering the whole process from data collection to model evaluation and prediction.
 
 The stocks that we predict in this project include BlackRock, Goldman Sachs, JPMorgan Chase, and D. E. Shaw Group.
